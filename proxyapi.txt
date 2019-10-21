@@ -1,0 +1,12 @@
+<http>
+https://api.proxyscrape.com/?request=displayproxies&proxytype=http&country=all
+https://www.proxy-list.download/api/v1/get?type=http
+</http>
+<https>
+https://api.proxyscrape.com/?request=displayproxies&proxytype=https&country=all
+https://www.proxy-list.download/api/v1/get?type=https
+</https>
+<socks5>
+https://api.proxyscrape.com/?request=displayproxies&proxytype=socks5&country=all
+https://www.proxy-list.download/api/v1/get?type=socks5
+</socks5>
